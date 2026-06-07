@@ -58,4 +58,4 @@ A publicly available dataset containing patient demographics, procedures, treatm
 7.Dashboard Preview
 
 Hospital Patients Dashboard 
-Example = ![Dashboard Preview].(https://github.com/Adityapawar1117/Bi-Hospital-dashboard-/blob/main/Hospital%20dashboard%20Snapshot.png).
+Example: ![Dashboard Preview](https://github.com/Adityapawar1117/Bi-Hospital-dashboard-/blob/main/Hospital%20dashboard%20Snapshot.png)
