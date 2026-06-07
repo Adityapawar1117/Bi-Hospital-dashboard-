@@ -14,9 +14,9 @@ Hospital administrators and healthcare analysts often struggle to extract action
 |------|-------|
 | Power BI Desktop | Main visualization platform |
 | Power Query | Data cleaning & transformation |
-| DAX | Calculated measures & KPIs |MS Exel |
+| DAX | Calculated measures & KPIs |
 | Data Modeling | Table relationships & aggregations |
-| Development & preview formats |
+| png/pbit | Development & preview formats |
 
 
 3.Data Source
@@ -58,4 +58,4 @@ A publicly available dataset containing patient demographics, procedures, treatm
 7.Dashboard Preview
 
 Hospital Patients Dashboard 
-Example: ![Dashboard Preview](https://github.com/Adityapawar1117/Bi-Hospital-dashboard-/blob/main/Hospital%20dashboard%20Snapshot.png)
+Example : ![Dashboard Preview](https://github.com/Adityapawar1117/Bi-Hospital-dashboard-/blob/main/Hospital%20dashboard%20Snapshot.png)
